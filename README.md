@@ -1,8 +1,7 @@
 
 # Hello there! 
 
-
-[![Twitter Badge](https://img.shields.io/badge/-@AlJawharhAlOtaibi?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/JawharhOtaibi)](https://twitter.com/JawharhOtaibi)
+[![Twitter Badge](https://img.shields.io/badge/-@JawharhOtaibi-blue?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/JawharhOtaibi)](https://twitter.com/JawharhOtaibi)
 [![LinkedIn Badge](https://img.shields.io/badge/-AlJawharh%20S%20Alotaibi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aljawharh-s-alotaibi-2b99b6269/)](https://www.linkedin.com/in/aljawharh-s-alotaibi-2b99b6269/)
 [![Medium Badge](https://img.shields.io/badge/-@aljawharhalotaibi-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@aljawharhalotaibi/)](https://medium.com/@aljawharhalotaibi/)
 [![Gmail Badge](https://img.shields.io/badge/-ALJawharhALOtaibi@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mailALJawharhALOtaibi@gmail.com)](mailto:mailALJawharhALOtaibi@gmail.com)
